@@ -1,0 +1,34 @@
+ustawienia - zapis + wczytywanie jakis pliki ini -   POczatkowe ustawienia pogody zweryfikowac nie zaczytuje przy starcie -
+jednostki tooltip -
+kod upiekszanie
+nazwa miasta zamiast wspolrzednych -
+zmiana wspolrzednych - czyszczenie labelki z miastem -
+dodanie mozliwosci sterowania czasem odświezania pogody w minutach w min ?
+heat index / chill index  *C / F ?
+
+spinbox zmiana wartości a czyszczenie labelka -
+nie usuwanie flagi przy czyszczeniu miasta -
+
+sciezki do icon
+
+add info label about used site ?
+
+[Location]
+
+Latitude=
+Longitude=
+
+[Unit]
+Temperature=
+Pressure=
+Wind=
+Precipitations=
+Altitude=
+ApparentTemp=
+
+[Apperance]
+Arrangement=
+DisplayDay=
+Refresh=
+
+zabezpieczenie przed brakiem neta

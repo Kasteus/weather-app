@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by sK1 2.0rc5 (https://sk1project.net/) -->
+<svg xmlns="http://www.w3.org/2000/svg" height="100.0px" width="100.0px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" id="dccdab10-6fac-11ea-a181-b42e99a10389">
+<defs id="defs1">
+	<radialGradient spreadMethod="pad" gradientUnits="userSpaceOnUse" cy="-320.0" cx="299.9395" gradientTransform="matrix(1.0, 0.0, 0.0, -1.0, -247.0, -269.5)" r="40.0969" id="grad1">
+		<stop style="stop-color:#eb911f;stop-opacity:1.0;" offset="0.0" />
+		<stop style="stop-color:#ed9621;stop-opacity:1.0;" offset="0.175" />
+		<stop style="stop-color:#f2a426;stop-opacity:1.0;" offset="0.3726" />
+		<stop style="stop-color:#fabb2f;stop-opacity:1.0;" offset="0.5835" />
+		<stop style="stop-color:#ffcb35;stop-opacity:1.0;" offset="0.6966" />
+	</radialGradient>
+	<radialGradient spreadMethod="pad" gradientUnits="userSpaceOnUse" cy="-311.7256" cx="290.8164" gradientTransform="matrix(1.0, 0.0, 0.0, -1.0, -247.0, -269.5)" r="25.0183" id="grad2">
+		<stop style="stop-color:#ffeec7;stop-opacity:1.0;" offset="0.0" />
+		<stop style="stop-color:#ffe7a8;stop-opacity:1.0;" offset="0.113" />
+		<stop style="stop-color:#ffd45a;stop-opacity:1.0;" offset="0.3464" />
+		<stop style="stop-color:#ffcb35;stop-opacity:1.0;" offset="0.4494" />
+		<stop style="stop-color:#eb911f;stop-opacity:1.0;" offset="1.0" />
+	</radialGradient>
+</defs>
+<g>
+	<g>
+		<g>
+			<path style="stroke:#f9991d;stroke-width:1.0;stroke-miterlimit:10.0;fill:url(#grad1);" d="M 50.5,12.6 L 57.7,33.0 77.3,23.7 68.0,43.3 88.4,50.5 68.0,57.7 77.3,77.3 57.7,68.0 50.5,88.4 43.3,68.0 23.7,77.3 33.0,57.7 12.6,50.5 33.0,43.3 23.7,23.7 43.3,33.0 50.5,12.6 Z" />
+			<path style="fill:url(#grad2);" d="M 68.0,50.4 C 68.0,60.0633 60.1633,67.9 50.5,67.9 40.8367,67.9 33.0,60.0633 33.0,50.4 33.0,40.7367 40.8367,32.9 50.5,32.9 60.1633,32.9 68.0,40.7367 68.0,50.4 Z" />
+		</g>
+	</g>
+</g>
+</svg>
